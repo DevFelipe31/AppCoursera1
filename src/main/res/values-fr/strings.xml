@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma première app - Courseira</string>
+    <string name="tittle_text">Bienvenue</string>
+    <string name="button_text">Entrer</string>
+    <string name="toast_msg">Fait par: Denis Felipe</string>
+</resources>
